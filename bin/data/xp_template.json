@@ -5,7 +5,7 @@
   },
   "User": {
     "Name": {
-      "Color": "ffffffff",
+      "Color": "ff0000",
       "Show": true,
       "FontSize": 50,
       "Pos": {
