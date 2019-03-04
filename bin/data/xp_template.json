@@ -5,9 +5,9 @@
   },
   "User": {
     "Name": {
-      "Color": "ffffffff",
+      "Color": "972826",
       "Show": true,
-      "FontSize": 50,
+      "FontSize": 45,
       "Pos": {
         "X": 130,
         "Y": 17
@@ -153,7 +153,7 @@
       }
     },
     "Name": {
-      "Color": "ffffffff",
+      "Color": "972826",
       "Show": true,
       "FontSize": 35,
       "Pos": {
