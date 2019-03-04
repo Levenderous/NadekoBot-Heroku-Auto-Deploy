@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 1,
   "Coins": {
     "Heads": [
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/coins/heads.png"
@@ -9,9 +9,9 @@
     ]
   },
   "Currency": [
-    "https://www.agiftinside.com/images/view/565/565/false/img/single_products/GSF-ACD1001-main-2018-1000.jpg"
-    "https://cdn1.harryanddavid.com/wcsstore/HarryAndDavid/images/catalog/93517a2x.jpg"
-    "https://heatherchristo.com/wp-content/uploads/2014/02/Chocolate-Covered-Strawberry-Cupcakes.jpg"
+    "https://i.postimg.cc/PPHv5BST/currency1.jpg",
+    "https://i.postimg.cc/HVtccBN5/currency2.jpg",
+    "https://i.postimg.cc/VJLSjXyh/currency3.jpg"
   ],
   "Dice": [
     "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/dice/0.png",
