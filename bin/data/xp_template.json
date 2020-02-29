@@ -7,7 +7,7 @@
     "Name": {
       "Color": "4db200",
       "Show": true,
-      "FontSize": 45,
+      "FontSize": 50,
       "Pos": {
         "X": 130,
         "Y": 17
@@ -81,7 +81,7 @@
         }
       }
     },
-   "Xp": {
+    "Xp": {
       "Bar": {
         "Show": true,
         "Global": {
