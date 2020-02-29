@@ -10,18 +10,18 @@
       "FontSize": 40,
       "Pos": {
         "X": 130,
-        "Y": 15
+        "Y": 13
       }
     },
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 30,
+        "X": 25,
         "Y": 8
       },
       "Size": {
         "X": 60,
-        "Y": 71
+        "Y": 69
       }
     },
     "GlobalLevel": {
@@ -30,7 +30,7 @@
       "FontSize": 20,
       "Pos": {
         "X": 45,
-        "Y": 130
+        "Y": 150
       }
     },
     "GuildLevel": {
@@ -38,8 +38,8 @@
       "Show": true,
       "FontSize": 20,
       "Pos": {
-        "X": 45,
-        "Y": 200
+        "X": 140,
+        "Y": 170
       }
     },
     "GlobalRank": {
