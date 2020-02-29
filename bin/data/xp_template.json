@@ -16,8 +16,8 @@
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 20,
-        "Y": 8
+        "X": 23,
+        "Y": 7
       },
       "Size": {
         "X": 60,
@@ -30,7 +30,7 @@
       "FontSize": 20,
       "Pos": {
         "X": 45,
-        "Y": 160
+        "Y": 130
       }
     },
     "GuildLevel": {
@@ -39,7 +39,7 @@
       "FontSize": 20,
       "Pos": {
         "X": 45,
-        "Y": 280
+        "Y": 250
       }
     },
     "GlobalRank": {
@@ -47,8 +47,8 @@
       "Show": true,
       "FontSize": 30,
       "Pos": {
-        "X": 100,
-        "Y": 130
+        "X": 60,
+        "Y": 160
       }
     },
     "GuildRank": {
@@ -56,8 +56,8 @@
       "Show": true,
       "FontSize": 30,
       "Pos": {
-        "X": 100,
-        "Y": 200
+        "X": 60,
+        "Y": 280
       }
     },
     "TimeOnLevel": {
