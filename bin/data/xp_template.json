@@ -1,7 +1,7 @@
 {
   "output_size": {
-    "X": 450,
-    "Y": 220
+    "X": 800,
+    "Y": 600
   },
   "User": {
     "Name": {
@@ -16,12 +16,12 @@
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 25,
+        "X": 23,
         "Y": 8
       },
       "Size": {
         "X": 60,
-        "Y": 69
+        "Y": 60
       }
     },
     "GlobalLevel": {
@@ -30,7 +30,7 @@
       "FontSize": 20,
       "Pos": {
         "X": 45,
-        "Y": 150
+        "Y": 120
       }
     },
     "GuildLevel": {
@@ -38,8 +38,8 @@
       "Show": true,
       "FontSize": 20,
       "Pos": {
-        "X": 140,
-        "Y": 170
+        "X": 45,
+        "Y": 240
       }
     },
     "GlobalRank": {
