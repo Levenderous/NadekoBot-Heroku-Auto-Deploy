@@ -87,27 +87,27 @@
         "Global": {
           "Color": "00000066",
           "PointA": {
-            "X": 260,
+            "X": 258,
             "Y": 87
           },
           "PointB": {
             "X": 225,
             "Y": 190
           },
-          "Length": 300,
+          "Length": 400,
           "Direction": 3
         },
         "Guild": {
           "Color": "00000066",
           "PointA": {
-            "X": 140,
+            "X": 225,
             "Y": 200
           },
           "PointB": {
             "X": 100,
-            "Y": 250
+            "Y": 280
           },
-          "Length": 450,
+          "Length": 400,
           "Direction": 3
         }
       },
