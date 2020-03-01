@@ -47,7 +47,7 @@
       "Show": true,
       "FontSize": 25,
       "Pos": {
-        "X": 100,
+        "X": 130,
         "Y": 145
       }
     },
@@ -56,12 +56,12 @@
       "Show": true,
       "FontSize": 25,
       "Pos": {
-        "X": 100,
+        "X": 130,
         "Y": 265
       }
     },
     "TimeOnLevel": {
-      "Format": "{0}d{1}h{2}m",
+      "Format": "{0}d{1}h{2}m{3}y",
       "Global": {
         "Color": "ffffffff",
         "Show": true,
@@ -87,11 +87,11 @@
         "Global": {
           "Color": "00000066",
           "PointA": {
-            "X": 200,
+            "X": 240,
             "Y": 87
           },
           "PointB": {
-            "X": 180,
+            "X": 220,
             "Y": 190
           },
           "Length": 450,
