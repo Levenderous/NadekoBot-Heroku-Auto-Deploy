@@ -61,7 +61,7 @@
       }
     },
     "TimeOnLevel": {
-      "Format": "{0}d{1}h{2}m{3}y",
+      "Format": "{0}d{1}h{2}m",
       "Global": {
         "Color": "ffffffff",
         "Show": true,
